@@ -1,0 +1,3 @@
+app:
+ secret: abcd-efgh-ijkl-mnop
+ jwtExpirationMs: 5000000000
