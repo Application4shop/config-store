@@ -1,0 +1,9 @@
+server:
+  port: 8700
+management:
+  endpoints:
+    routes:
+      enabled: true
+eureka:
+  client:
+    fetchRegistry: true
