@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/ergo?useSSL=false&serverTimeZone=UTC
-    username: ergo
-    password: ergo
+    url: jdbc:mysql://localhost:3306/marketplace?useSSL=false&serverTimeZone=UTC
+    username: marketplace
+    password: marketplace
