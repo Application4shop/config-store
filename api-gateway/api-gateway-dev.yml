@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://app4shop.c1k0iuji2kwm.us-east-1.rds.amazonaws.com/marketplace?useSSL=false&serverTimeZone=UTC
+    url: jdbc:mysql://app4shop.c1k0iuji2kwm.us-east-1.rds.amazonaws.com:3306/marketplace?useSSL=false&serverTimeZone=UTC
     username: marketplace
     password: marketplace
